@@ -1,4 +1,4 @@
-module go.samhza.com/cakes
+module samhza.com/cakes
 
 go 1.17
 
